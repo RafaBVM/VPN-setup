@@ -23,12 +23,12 @@ Create a virtual machine and select a region that isn’t where you live snd sel
 Now log into your virtual machine.
 </p>
 <br />
-On your virtual machine this time, go back into whatsmyipaddress.com and save the IP address and city
+
 <p>
 <img src="https://i.imgur.com/EmrpBSc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+On your virtual machine this time, go back into whatsmyipaddress.com.
 </p>
 <br />
 
