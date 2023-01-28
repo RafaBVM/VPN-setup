@@ -12,7 +12,7 @@ Go to whatismyipaddress.com on your browser
 <img src="https://i.imgur.com/13aIs0V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a virtual machine and select a region that isn’t where you live snd select 2 vcpus. Give yourself a username and password. Then review+create.
+Create a virtual machine and select a region that isn’t where you live and select 2 vcpus. Give yourself a username and password. Then review+create.
 </p>
 <br />
 
