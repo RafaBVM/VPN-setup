@@ -69,7 +69,7 @@ Now select a country of your choice. I chose Japan as an example. Your VM might 
 <img src="https://i.imgur.com/98Au366.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go back to whatsmyipaddress.com, refresh the page if its still up from when we initially had it open. Once refreshed you should see the city and country change to the country you’ve chosen.
+Go back to whatsmyipaddress.com, refresh the page if its still up from when you initially had it open. Once refreshed you should see the city and country change to the country you’ve chosen.
 </p>
 <br />
 
@@ -77,7 +77,7 @@ Go back to whatsmyipaddress.com, refresh the page if its still up from when we i
 <img src="https://i.imgur.com/18hJ32s.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-If you go to Netflix and look at the selections in the back you can see mine has Japanese shows & movies.
+If you go to Netflix and look at the selections in the back you can see mine has Japanese shows & movies. Yours might differ of course.
 </p>
 <br />
 
